@@ -1,0 +1,7 @@
+1599950678169	geckodriver	INFO	Listening on 127.0.0.1:51981
+1599950678172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/nubonix/.mozilla/firefox/or2171cc.recap" "-foreground" "-no-remote"
+1599950697069	geckodriver	INFO	Listening on 127.0.0.1:42793
+1599950697072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/nubonix/.mozilla/firefox/or2171cc.recap" "-foreground" "-no-remote"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
